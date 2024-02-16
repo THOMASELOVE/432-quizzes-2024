@@ -1,5 +1,12 @@
 # Quiz 1 materials for 432 Spring 2024
 
+All necessary Quiz 1 information will appear here by 5 PM on Thursday 2024-02-22, as specified on the Calendar.
+
+## Main Materials will appear below as they become available...
+
+- Link to data sets for Quiz 1
+- Link to the PDF of Quiz 1 instructions and Questions
+- Link to the Google Form Answer Sheet for Quiz 1
 
 ## Bonus Question
 
