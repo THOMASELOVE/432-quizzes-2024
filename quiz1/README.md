@@ -4,7 +4,7 @@ All necessary Quiz 1 information will appear here by 5 PM on Thursday 2024-02-22
 
 ## What is available now?
 
-- Here is a [4-page PDF of the instructions for Quiz 1](https://github.com/THOMASELOVE/432-quizzes-2024/blob/main/quiz1/432_quiz1_instructions_only_2024.pdf). This will be replaced by the full 32-page document (which includes the Questions) when the Quiz is posted.
+- Here is a [4-page PDF of the instructions for Quiz 1](https://github.com/THOMASELOVE/432-quizzes-2024/blob/main/quiz1/432_quiz1_instructions_only_2024.pdf). This will be replaced by the full 32-page document (which includes the Questions) when the Quiz is posted. This document also includes the list of R packages I used (or might have used) to create and answer the Quiz.
 
 ## What is still to come?
 
