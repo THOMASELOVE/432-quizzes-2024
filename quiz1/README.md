@@ -2,9 +2,13 @@
 
 All necessary Quiz 1 information will appear here by 5 PM on Thursday 2024-02-22, as specified on [the Calendar](https://thomaselove.github.io/432-2024/calendar.html).
 
-## Main Materials will appear below...
+## What is available now?
 
-- PDF of Quiz 1 instructions and Questions
+- Here is a [4-page PDF of the instructions for Quiz 1](https://github.com/THOMASELOVE/432-quizzes-2024/blob/main/quiz1/432_quiz1_instructions_only_2024.pdf). This will be replaced by the full 32-page document (which includes the Questions) when the Quiz is posted.
+
+## What is still to come?
+
+- Full 32-page PDF of Quiz 1 instructions and Questions
 - Quiz 1 data sets
 - Google Form Answer Sheet for Quiz 1
 
