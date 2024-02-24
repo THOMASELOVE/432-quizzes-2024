@@ -24,4 +24,18 @@ Don't forget that the bonus question for Quiz 1 is **now** available on [Campusw
 - Look for the **Quiz 1 Bonus Question: "How to be a modern scientist"** post (it's #40).
 - Responses are due to [Campuswire](https://campuswire.com/) at the same time that the main part of Quiz 1 is due.
 - The bonus question will be worth either 3 or 4 points for a complete and well-written response, with some partial credit potentially available.
-- As of Wednesday 2024-02-21 at 3:20 PM, I had responses from 12 of you, out of 39. That's a pretty low rate.
+
+### Who has provided a response to the Bonus Question?
+
+As of Saturday 2024-02-24 at 4:16 PM, I had responses on Campuswire from the people in **BOLD** below.
+
+Student | Student | Student | Student | Student
+:---------------: | :---------------: | :---------------: | :---------------: | :---------------: 
+-- | Abrar Alamoudi | -- | -- | John Barron
+-- | -- | -- | -- | Mary Garrity
+-- | Parishma Guttoo | -- | -- | --
+-- | Bhavya Mahesh | Ethan Martin | -- | -- 
+-- | -- | Noel Moore | Krishna Mridha | --
+-- | -- | -- | Maksim Parfyonov | Camaryn Peterson
+Justin Robinson | Gayan Samuditha | -- | Himiede Wilson-Sesay | Gazi Shamita
+John Snell | -- | -- | Hongke Wu
