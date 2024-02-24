@@ -4,6 +4,8 @@ All necessary Quiz 1 information will appear here by 5 PM on Thursday 2024-02-22
 
 ## UPDATES since the original posting
 
+The currently posted PDF has as its date and time on page 1: **2024-02-24 3:56 PM**
+
 - **Saturday 2024-02-24 at 3:56 PM**: Question **Q18** There was a typo in the stem of the question, which indicated the "Code Attempt for Q19" instead of the "Code Attempt for Q18". Now corrected in the PDF posted online. 
 - **Saturday 2024-02-24 at 3:50 PM**: Question **Q13** I have rephrased option a from Question Q13 to make it a bit clearer that the three main options (a, b, and c) are different. The new option A is a. The cubic term in Model `mod12` is not helpful according to both AIC and BIC. This is what I meant originally, as well, but I think this revision makes it clearer. All I've done here is change the word "either" to "both".
 - **Saturday 2024-02-24**: Question **Q01** In the originally posted version of Quiz 1, the output I provided in Question Q01 to check your work was slightly incorrect. The current version of the PDF (which I also emailed to all students) is updated to correct my mistake, which involved the output related to the coefficients. The corrected intercept estimate is -3.288444, for example.
