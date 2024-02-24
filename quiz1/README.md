@@ -27,7 +27,7 @@ Don't forget that the bonus question for Quiz 1 is **now** available on [Campusw
 
 ### Who has provided a response to the Bonus Question?
 
-As of Saturday 2024-02-24 at 4:16 PM, I had responses on Campuswire from the people in **BOLD** below.
+As of Saturday 2024-02-24 at 4:16 PM, I had responses on Campuswire from the people listed below.
 
 Student | Student | Student | Student | Student
 :---------------: | :---------------: | :---------------: | :---------------: | :---------------: 
