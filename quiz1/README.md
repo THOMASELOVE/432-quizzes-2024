@@ -26,15 +26,15 @@ Don't forget that the bonus question for Quiz 1 is **now** available on [Campusw
 
 ### Who has provided a response to the Bonus Question?
 
-As of Tuesday 2024-02-27 at 10:15 AM, I had responses on Campuswire from the people listed below.
+As of Tuesday 2024-02-27 at 10:45 AM, I had responses on Campuswire from the people listed below.
 
 Student | Student | Student | Student | Student
 :---------------: | :---------------: | :---------------: | :---------------: | :---------------: 
--- | Abrar Alamoudi | Sarah Albalawi | Wala'a Alshaia | John Barron
+Kamilla Abdurakhmanov | Abrar Alamoudi | Sarah Albalawi | Wala'a Alshaia | John Barron
 -- | -- | Justin Dvorak | Jacob Gardner | Mary Garrity
 Trent George | Parishma Guttoo | Julia Joo | Harry Kong | Mengxuan Li
 -- | Bhavya Mahesh | Ethan Martin | Kyle McGill Percy | Samir Memic
 Kathryn Menta | -- | Noel Moore | Krishna Mridha | --
 -- | Vern Olaker | Sakshi Pandit | Maksim Parfyonov | Camaryn Peterson
 Justin Robinson | Gayan Samuditha | Elizabeth Schultheis | Himiede Wilson-Sesay | Gazi Shamita
-John Snell | -- | Qiao Wang | Hongke Wu
+John Snell | Liz Stanley | Qiao Wang | Hongke Wu
