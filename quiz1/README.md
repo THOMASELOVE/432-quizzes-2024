@@ -1,7 +1,5 @@
 # Quiz 1 materials for 432 Spring 2024
 
-All necessary Quiz 1 information will appear here by 5 PM on Thursday 2024-02-22, as specified on [the Calendar](https://thomaselove.github.io/432-2024/calendar.html).
-
 ## UPDATES since the original posting
 
 The currently posted PDF has as its date and time on page 1: **2024-02-25 6:12 PM**
