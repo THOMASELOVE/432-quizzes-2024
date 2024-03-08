@@ -8,4 +8,4 @@ All necessary Quiz 1 information will appear [at this link](https://github.com/T
 
 ## Information for Quiz 2
 
-will be posted closer to the April date specified on the [Calendar](https://thomaselove.github.io/432-2024/calendar.html)
+All necessary Quiz 2 information will appear [at this link](https://github.com/THOMASELOVE/432-quizzes-2024/tree/main/quiz2) by the date and time specified on the [Calendar](https://thomaselove.github.io/432-2024/calendar.html).
