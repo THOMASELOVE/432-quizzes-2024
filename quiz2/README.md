@@ -12,6 +12,6 @@ All of this material will appear by the time specified on the [Calendar](https:/
 
 ## What is available now?
 
-A fairly complete draft of the instructions for Quiz 2 is now available here. 
+A fairly complete draft of [the instructions for Quiz 2 is now available](https://github.com/THOMASELOVE/432-quizzes-2024/blob/main/quiz2/432_quiz2_2024_instructions_only.pdf).
 
-- Note that this draft of instructions will disappear when we provide the final main PDF file of instructions and questions.
+- This "instructions only" draft will disappear when we provide the final main PDF file of instructions and questions.
