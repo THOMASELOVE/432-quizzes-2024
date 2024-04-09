@@ -1,5 +1,11 @@
 # Quiz 2 materials for 432 Spring 2024
 
+## What is available now?
+
+A fairly complete draft of [the instructions for Quiz 2 is now available](https://github.com/THOMASELOVE/432-quizzes-2024/blob/main/quiz2/432_quiz2_2024_instructions_only.pdf).
+
+- This "instructions only" draft will disappear when we provide the final main PDF file of instructions and questions.
+
 ## What will become available here?
 
 All of this material will appear by the time specified on the [Calendar](https://thomaselove.github.io/432-2024/calendar.html).
@@ -10,8 +16,3 @@ All of this material will appear by the time specified on the [Calendar](https:/
 - The Google Form Answer Sheet for Quiz 2.
     - All of your answers must go into that sheet, which will close **15 minutes** after the Quiz deadline on the [Calendar](https://thomaselove.github.io/432-2024/calendar.html).
 
-## What is available now?
-
-A fairly complete draft of [the instructions for Quiz 2 is now available](https://github.com/THOMASELOVE/432-quizzes-2024/blob/main/quiz2/432_quiz2_2024_instructions_only.pdf).
-
-- This "instructions only" draft will disappear when we provide the final main PDF file of instructions and questions.
