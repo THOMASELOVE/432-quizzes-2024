@@ -5,6 +5,7 @@
 A fairly complete draft of [the instructions for Quiz 2 is now available](https://github.com/THOMASELOVE/432-quizzes-2024/blob/main/quiz2/432_quiz2_2024_instructions_only.pdf).
 
 - This "instructions only" draft will disappear when we provide the final main PDF file of instructions and questions.
+- I updated this document a little on 2024-04-12 to reflect a more complete list of packages and setup.
 
 ## What will become available here?
 
