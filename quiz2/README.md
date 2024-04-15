@@ -5,7 +5,7 @@
 A fairly complete draft of [the instructions for Quiz 2 is now available](https://github.com/THOMASELOVE/432-quizzes-2024/blob/main/quiz2/432_quiz2_2024_instructions_only.pdf).
 
 - This "instructions only" draft will disappear when we provide the final main PDF file of instructions and questions.
-- **NEW!** I updated the "instructions only" document again on Sunday `2024-04-14` to reflect a more complete list of packages and setup, and an increase in the length of the PDF file.
+- **NEW!** I updated the "instructions only" document again on Sunday `2024-04-14` to reflect a more complete list of packages and setup, and increases in (1) the length of the PDF file to 47 pages, and (2) the number of footnotes to 14, as we add additional output and hints in revising the questions.
 
 ## What will become available here?
 
