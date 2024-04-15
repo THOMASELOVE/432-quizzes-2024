@@ -23,7 +23,6 @@ All of this material will appear by the time specified on the [Calendar](https:/
 ## Code Chunk for R Packages and Setup (this is not yet guaranteed to be the final version.)
 
 ```
-#| echo: true
 #| message: false
 
 knitr::opts_chunk$set(comment = NA)
