@@ -11,9 +11,10 @@ A fairly complete draft of [the instructions for Quiz 2 is now available](https:
 
 All of this material will appear by the time specified on the [Calendar](https://thomaselove.github.io/432-2024/calendar.html).
 
-- The main (44-page) PDF containing the instructions and all 34 questions for Quiz 2.
+- The main (**47-page**) PDF containing the instructions and all 34 questions for Quiz 2.
     - This document will also include the list of R packages and settings I used to create and answer the Quiz.
 - The seven Quiz 2 data sets we are providing to you.
 - The Google Form Answer Sheet for Quiz 2.
     - All of your answers must go into that sheet, which will close **15 minutes** after the Quiz deadline on the [Calendar](https://thomaselove.github.io/432-2024/calendar.html).
+- A version of our code for Dr. Love's R packages and setup that you can easily copy and paste into your Quarto file when building your responses to the Quiz.
 
