@@ -17,7 +17,7 @@ All of this material will appear by the time specified on the [Calendar](https:/
     - All of your answers must go into that sheet, which will close **15 minutes** after the Quiz deadline on the [Calendar](https://thomaselove.github.io/432-2024/calendar.html).
 - A link to the folder on our Shared Drive where you'll find the seven Quiz 2 data sets we are providing to you, specifically...
     - `dataB.rds`, `dataD.csv`, `dataE.rds`, `dataH.csv`, `dataN.rds`, `dataS.rds`, and `dataT.csv`.     
-- A copy of Dr. Love's code chunk for **R packages and setup** that you can easily copy and paste into your Quarto file when building your responses to the Quiz.
+- A copy of Dr. Love's code chunk for **R packages and setup** that you can easily copy and paste into your Quarto file when building your responses to the Quiz. (see below for a preliminary version.)
 - A copy of Dr. Love's code chunk for **setting up Items Q25 - Q30**, so that you can copy and paste it more easily than the PDF will allow.
 
 ## Code Chunk for R Packages and Setup (this is not yet guaranteed to be the final version.)
