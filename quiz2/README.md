@@ -1,6 +1,10 @@
 # Quiz 2 materials for 432 Spring 2024
 
-## Everything you need is available NOW.
+## If changes are necessary...
+
+Dr. Love will email them to you, and post them here.
+
+## All Five Things you need ares available NOW.
 
 1. The [Google Form Answer Sheet](https://bit.ly/432-2024-quiz2-answer-form) for Quiz 2 will be found at <https://bit.ly/432-2024-quiz2-answer-form>. It will open at 5 PM on Thursday 2024-04-18.
     - All of your answers must go into that sheet, which will close **15 minutes** after the Quiz deadline on the [Calendar](https://thomaselove.github.io/432-2024/calendar.html).
@@ -76,8 +80,9 @@ dataE_s <- complete(dataE_20imps, 17) |> tibble()
 dataE_s$person <- dataE$person
 ```
 
-5. The Main PDF document, which contains the instructions and all 34 questions for Quiz 2.
-    - Be sure you have all 34 pages, and that you carefully read the document as you do the Quiz.
+5. The Main PDF document is [now available](https://github.com/THOMASELOVE/432-quizzes-2024/blob/main/quiz2/432_quiz2_2024_for_students.pdf).
+    - It contains the instructions and all 34 questions for Quiz 2.
+    - Be sure you have all 47 pages in the PDF, and that you carefully read the document as you do the Quiz.
 
 
 
