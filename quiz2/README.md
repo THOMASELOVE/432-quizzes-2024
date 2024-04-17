@@ -22,7 +22,7 @@ Data Set | Type of File | # observations | # variables | Quiz 2 items
 
 4. Here is a copy of section 0.12 of the main PDF, in a format that lets you easily copy and paste Dr. Love's code chunk for **R packages and setup** into your Quarto file.
 
-## Code Chunk for R Packages and Setup (from section 0.12 of the Main Document)
+## Code Chunk for R Packages and Setup (from section 0.12 of the Main Document on page 4)
 
 ```{r}
 #| message: false
@@ -59,6 +59,8 @@ theme_set(theme_bw())
 ```
 
 5. Here is a copy of the relevant code from the two pages leading up to Items Q25-30, working with `dataE` to create imputations.
+
+## Code Setting Up Items Q25-30 (from pp. 33-34 of the Main PDF)
 
 ```{r}
 dataE <- read_rds("data/dataE.Rds") 
