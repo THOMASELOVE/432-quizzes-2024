@@ -4,6 +4,8 @@
 
 Dr. Love will email them to you, and post them here.
 
+The current version of the main PDF - see link below - is `2024-04-17 at 12:32 PM`.
+
 ## All Five Things you need ares available NOW.
 
 1. The [Google Form Answer Sheet](https://bit.ly/432-2024-quiz2-answer-form) for Quiz 2 will be found at <https://bit.ly/432-2024-quiz2-answer-form>. It will open at 5 PM on Thursday 2024-04-18.
