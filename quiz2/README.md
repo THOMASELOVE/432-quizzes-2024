@@ -1,6 +1,6 @@
 # Quiz 2 materials for 432 Spring 2024
 
-## What is available now?
+## Everything you need is available NOW.
 
 1. The [Google Form Answer Sheet](https://bit.ly/432-2024-quiz2-answer-form) for Quiz 2 will be found at <https://bit.ly/432-2024-quiz2-answer-form>. It will open at 5 PM on Thursday 2024-04-18.
     - All of your answers must go into that sheet, which will close **15 minutes** after the Quiz deadline on the [Calendar](https://thomaselove.github.io/432-2024/calendar.html).
@@ -17,10 +17,7 @@ Data Set | Type of File | # observations | # variables | Quiz 2 items
 `dataS` | Rds | 600 | 7 | Q04 - Q06
 `dataT` | csv | 360 | 5 | Q11 - Q12
 
-3. A fairly complete draft of [the instructions for Quiz 2 is now available](https://github.com/THOMASELOVE/432-quizzes-2024/blob/main/quiz2/432_quiz2_2024_instructions_only.pdf). This "instructions only" draft will disappear when we provide the final main PDF file of instructions and questions.
-    - **NEW!** I updated the "instructions only" document again on Sunday `2024-04-14` to reflect a more complete list of packages and setup, and increases in (1) the length of the PDF file to 47 pages, and (2) the number of footnotes to 14, as we add additional output and hints in revising the questions.
-
-4. Here is a copy of section 0.12 of the main PDF, in a format that lets you easily copy and paste Dr. Love's code chunk for **R packages and setup** into your Quarto file.
+3. Here is a copy of section 0.12 of the main PDF, in a format that lets you easily copy and paste Dr. Love's code chunk for **R packages and setup** into your Quarto file.
 
 ## Code Chunk for R Packages and Setup (from section 0.12 of the Main Document on page 4)
 
@@ -58,7 +55,7 @@ options(dplyr.summarise.inform = FALSE)
 theme_set(theme_bw())
 ```
 
-5. Here is a copy of the relevant code from the two pages leading up to Items Q25-30, working with `dataE` to create imputations.
+4. Here is a copy of the relevant code from the two pages leading up to Items Q25-30, working with `dataE` to create imputations.
 
 ## Code Setting Up Items Q25-30 (from pp. 33-34 of the Main PDF)
 
@@ -79,12 +76,8 @@ dataE_s <- complete(dataE_20imps, 17) |> tibble()
 dataE_s$person <- dataE$person
 ```
 
-## What will become available here?
-
-All of this material will appear by the time specified on the [Calendar](https://thomaselove.github.io/432-2024/calendar.html).
-
-- The main (**47-page**) PDF containing the instructions and all 34 questions for Quiz 2.
-    - This document will also include the list of R packages and settings I used to create and answer the Quiz.
+5. The Main PDF document, which contains the instructions and all 34 questions for Quiz 2.
+    - Be sure you have all 34 pages, and that you carefully read the document as you do the Quiz.
 
 
 
