@@ -4,7 +4,7 @@
 
 Dr. Love will email them to you, and post them here.
 
-The current version of the main PDF - see link below - is `2024-04-17 at 12:32 PM`.
+Current version of [the main PDF](https://github.com/THOMASELOVE/432-quizzes-2024/blob/main/quiz2/432_quiz2_2024_for_students.pdf) - is `2024-04-17 at 12:32 PM`.
 
 ## All Five Things you need ares available NOW.
 
