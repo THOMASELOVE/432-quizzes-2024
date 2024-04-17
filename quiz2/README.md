@@ -8,14 +8,24 @@
 2. The [Google Form Answer Sheet](https://bit.ly/432-2024-quiz2-answer-form) for Quiz 2 will be found at <https://bit.ly/432-2024-quiz2-answer-form>. It will open at 5 PM on Thursday 2024-04-18.
     - All of your answers must go into that sheet, which will close **15 minutes** after the Quiz deadline on the [Calendar](https://thomaselove.github.io/432-2024/calendar.html).
 
+3. We are providing you with seven Quiz 2 data sets [at this link on our 432-data page](https://github.com/THOMASELOVE/432-data/tree/master/data/quiz2), and in the **Quiz 2 Materials ... data** folder on our Shared Drive. Here are the details on those data sets:
+
+Data Set | Type of File | # observations | # variables | Quiz 2 items
+:-------: | :-------: | :----: | :----: | :---------:
+`dataB` | Rds | 4593 | 3 | Q09 - Q10
+`dataD` | csv | 1111 | 4 | Q16 - Q23
+`dataE` | Rds | 432 | 8 | Q25 - Q30
+`dataH` | csv | 1515 | 6 | Q01 - Q03
+`dataN` | Rds | 2640 | 9 | Q31 - Q34
+`dataS` | Rds | 600 | 7 | Q04 - Q06
+`dataT` | csv | 360 | 5 | Q11 - Q12
+
 ## What will become available here?
 
 All of this material will appear by the time specified on the [Calendar](https://thomaselove.github.io/432-2024/calendar.html).
 
 - The main (**47-page**) PDF containing the instructions and all 34 questions for Quiz 2.
     - This document will also include the list of R packages and settings I used to create and answer the Quiz.
-- A link to the folder on our Shared Drive where you'll find the seven Quiz 2 data sets we are providing to you, specifically...
-    - `dataB.rds`, `dataD.csv`, `dataE.rds`, `dataH.csv`, `dataN.rds`, `dataS.rds`, and `dataT.csv`.     
 - A copy of Dr. Love's code chunk for **R packages and setup** that you can easily copy and paste into your Quarto file when building your responses to the Quiz. (see [below for a preliminary version](#code-chunk-for-r-packages-and-setup-this-is-not-yet-guaranteed-to-be-the-final-version).)
 - A copy of Dr. Love's code chunk for **setting up Items Q25 - Q30**, so that you can copy and paste it more easily than the PDF will allow.
 
