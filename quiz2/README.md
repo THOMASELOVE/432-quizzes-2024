@@ -4,7 +4,7 @@ Remember if you have questions about Quiz 2, the *only* way to get answers betwe
 
 ## If edits/changes to the Quiz become necessary, Dr. Love will email them to you, and also post them here.
 
-The current version of [the main PDF](https://github.com/THOMASELOVE/432-quizzes-2024/blob/main/quiz2/432_quiz2_2024_for_students.pdf) - is dated `2024-04-17 at 12:32 PM` on the front page.
+The current version of [the main PDF](https://github.com/THOMASELOVE/432-quizzes-2024/blob/main/quiz2/432_quiz2_2024_for_students.pdf) is dated `2024-04-17 at 12:32 PM` on its front page.
 
 ## All Five Things you need ares available NOW.
 
